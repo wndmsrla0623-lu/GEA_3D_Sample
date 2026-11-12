@@ -24,4 +24,5 @@ public class RewardCalc : MonoBehaviour
         int redearbonus = gold % members;
         Debug.Log("1인당 골드" + goldmember + ", 리더 보너스" + redearbonus);
     }
+
 }
